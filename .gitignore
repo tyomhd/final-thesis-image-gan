@@ -1,0 +1,10 @@
+# Local files
+data
+data_final
+dataset
+.git
+.idea
+.vscode
+
+# Python cache
+__pycache__/
