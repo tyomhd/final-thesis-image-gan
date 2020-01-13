@@ -1,6 +1,6 @@
 # Image quality improvement based on a generative adversarial network
 
-A source code for the TTU IT College final thesis project.
+A source code for the Tallinn University of Technology IT College final thesis project.
 
 ### Author
 - Artyom Likhachev
